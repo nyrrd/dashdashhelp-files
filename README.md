@@ -1,5 +1,5 @@
 ## --help
 
-- [shell-example.zshenv](https://github.com/nyrrd/dashdashhelp-files/blob/main/shell-example.zshenv) (XDG user directories & Zsh environment variables)
-- [dev-example.zshenv](https://github.com/nyrrd/dashdashhelp-files/blob/main/dev-example.zshenv) (Environment variable for development)
-- [tools-example.zshenv](https://github.com/nyrrd/dashdashhelp-files/blob/main/tools-example.zshenv) (Environment variables for various terminal tools)
+- [envs/shell-example.zshenv](https://github.com/nyrrd/dashdashhelp-files/blob/main/envs/shell-example.zshenv) (XDG user directories & Zsh environment variables)
+- [envs/dev-example.zshenv](https://github.com/nyrrd/dashdashhelp-files/blob/main/envs/dev-example.zshenv) (Environment variable for development)
+- [envs/tools-example.zshenv](https://github.com/nyrrd/dashdashhelp-files/blob/main/envs/tools-example.zshenv) (Environment variables for various terminal tools)
